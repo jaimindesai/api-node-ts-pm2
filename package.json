@@ -1,0 +1,35 @@
+{
+  "name": "api-node-ts-pm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimindesai/api-node-ts-pm2.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "PM2"
+  ],
+  "author": "Jaimin Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimindesai/api-node-ts-pm2/issues"
+  },
+  "homepage": "https://github.com/jaimindesai/api-node-ts-pm2#readme",
+  "dependencies": {
+    "@types/boom": "0.0.33",
+    "boom": "^4.2.0",
+    "express": "^4.15.0"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.0.37",
+    "@types/express": "^4.0.35",
+    "typescript": "^2.2.1",
+    "typings": "^2.1.0"
+  }
+}
