@@ -1,0 +1,14 @@
+{
+	"apps": [
+		{
+			"name": "OTC",
+            "script": "build/proxy.js",
+			"combine_logs": true,
+			"out_file": "/Users/jaimindesai/code/API-Node-ts-pm2/log/api.log",
+			"error_file": "/Users/jaimindesai/code/API-Node-ts-pm2/log/api.log",
+			"env": {
+				"NODE_ENV": "DEV"
+			}
+		}
+	]
+}

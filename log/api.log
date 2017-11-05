@@ -1,0 +1,151 @@
+ListInvoices...
+inside rotue..1...
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+EventTime=2017-05-13T11:42:01.849Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+Sat, 13 May 2017 12:05:42 GMT express deprecated res.json(status, obj): Use res.status(status).json(obj) instead at build/routes/invoiceRouter.js:10:9
+EventTime=2017-05-13T12:06:26.588Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-13T12:30:36.649Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-13T12:30:39.035Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+ON-SIGINT
+MONGO-DISCONNECTED
+Disconnected from MongoDB OK
+ListInvoices...
+inside rotue..1...
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+EventTime=2017-05-14T16:11:52.863Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-15T16:34:12.041Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-17T16:56:14.185Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-17T16:56:45.960Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-17T17:15:46.279Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+ON-SIGTERM
+DISCONNECTED
+ListInvoices...
+inside rotue..1...
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+EventTime=2017-05-21T10:45:37.539Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-21T10:48:12.856Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-21T10:48:50.687Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-21T10:51:04.038Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-21T10:52:08.967Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-21T12:11:55.014Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-21T12:12:23.162Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-21T12:18:53.227Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-22T15:54:21.680Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-22T16:04:43.235Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-22T16:13:59.334Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-22T16:16:23.953Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-22T17:17:59.122Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-22T17:19:53.143Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-22T17:24:02.884Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-22T17:24:28.347Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-23T06:31:37.360Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-23T06:44:20.682Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+EventTime=2017-05-23T06:47:36.206Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+ON-SIGTERM
+DISCONNECTED
+ListInvoices...
+inside rotue..1...
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+EventTime=2017-05-27T08:08:37.440Z [DEBUG] - INVOICE-CONTROLLER Entered invoice controller { MGZ1: 'TEST1' }
+ON-SIGINT
+MONGO-DISCONNECTED
+Disconnected from MongoDB OK
+ListInvoices...
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+ON-SIGINT
+MONGO-DISCONNECTED
+Disconnected from MongoDB OK
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+ON-SIGINT
+MONGO-DISCONNECTED
+Disconnected from MongoDB OK
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+EventTime=2017-08-27T16:59:03.974Z [DEBUG] - USERS_CONTROLLER getUsers success
+ON-SIGINT
+MONGO-DISCONNECTED
+Disconnected from MongoDB OK
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+EventTime=2017-08-27T17:01:30.604Z [DEBUG] - EMPLOYEE_CONTROLLER getEmployees success
+EventTime=2017-08-27T17:02:27.475Z [DEBUG] - EMPLOYEE_CONTROLLER getEmployees success
+ON-SIGTERM
+DISCONNECTED
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+ON-SIGTERM
+DISCONNECTED
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+ON-SIGTERM
+DISCONNECTED
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+ON-SIGTERM
+ListInvoices...
+Inside Users
+END OF APP.js
+MongoDB Connected with no error
+Express app started on port 3003
+Connected to MONGODB
+EventTime=2017-10-24T16:28:41.159Z [DEBUG] - USERS_CONTROLLER getUsers success
+EventTime=2017-10-25T06:34:58.347Z [DEBUG] - USERS_CONTROLLER getUsers success
+EventTime=2017-10-25T07:15:09.715Z [DEBUG] - USERS_CONTROLLER getUsers success

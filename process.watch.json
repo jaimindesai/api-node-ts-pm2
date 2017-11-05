@@ -1,0 +1,9 @@
+{
+	"apps": [
+		{
+			"name": "OTC",
+			"script": "build/proxy.js",
+			"watch": ["build", "config"]
+		}
+	]
+}
