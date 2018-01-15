@@ -12,12 +12,7 @@ const cors = require('cors');
 let app: express.Express = express();
 
 
-// uncomment after placing your favicon in /public
-//app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 
-/*
- * MiddleWare
- */
 
 app.use(cors());
 app.use(bodyParser.json());
@@ -29,10 +24,7 @@ app.use(cookieParser());
  * */
 setRootRoutes(app);
 
-/*
- Error Handlers
- */
-// catch 404 and forward to error handler
+
 let errorHandler = new ErrorHandlers(app);
 app.use(errorHandler.notFound);
 app.use(errorHandler.catchAll);
