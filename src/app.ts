@@ -1,6 +1,4 @@
-/**
- * Created by snytkind on 6/18/16.
- */
+
 import * as express from 'express';
 import * as path from 'path';
 import {setRootRoutes} from './app.routes';
