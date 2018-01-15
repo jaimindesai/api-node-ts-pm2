@@ -1,7 +1,4 @@
 
-/**
- * Created by snytkind on 6/19/16.
- */
 
 import mongoose = require('mongoose');
 
